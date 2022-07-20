@@ -2,5 +2,5 @@ name: my jupyter notebooks
 channels:
   - conda-forge
 dependencies:
-  - python = 3.8
+  - python = 3.9
   - obspy >1.2.0
