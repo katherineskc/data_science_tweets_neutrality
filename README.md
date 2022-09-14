@@ -1,5 +1,5 @@
 # data_science_tweets_neutrality
-Classifying News Media on the Political Spectrum Based on Their Tweets - Which Classifier Is the Best?
+Classifying Political Orientation of News Media based on Their Tweets - Which Classifier is the Best?
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katherineskc/data_science_tweets_neutrality/main)
 
